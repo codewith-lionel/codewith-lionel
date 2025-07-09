@@ -80,5 +80,5 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lionel-zodiac&theme=radical&no-frame=true&row=1&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codewith-lionel&theme=radical&no-frame=true&row=1&margin-w=10" />
 </p>
