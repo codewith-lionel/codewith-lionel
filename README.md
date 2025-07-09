@@ -21,11 +21,11 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lionel-zodiac&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=10&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewith-lionel&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=10&hide_border=false" height="170" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lionel-zodiac&layout=compact&langs_count=6&theme=radical&border_radius=10&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewith-lionel&layout=compact&langs_count=6&theme=radical&border_radius=10&hide_border=false" height="170" />
 
-  <img src="https://streak-stats.demolab.com?user=lionel-zodiac&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="170" />
+  <img src="https://streak-stats.demolab.com?user=codewith-lionel&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="170" />
 </div>
 
 ---
