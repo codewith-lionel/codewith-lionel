@@ -11,9 +11,9 @@
 <img align="right" height="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 🧠 About Me
-- 🌱 Currently learning: **MERN Stack + AWS**
+- 🌱 Currently learning: **MERN Stack**
 - 🛠️ Building: Cool web apps with **MongoDB | Express | React | Node**
-- 💬 Ask me about: **JS, React, Git, Python**
+- 💬 Ask me about: **JS, React, Git, Mongo DB**
 - 📧 Reach me: `00lionel11@gmail.com`
 - 🎯 2025 Goal: Land a job & contribute to open source
 
